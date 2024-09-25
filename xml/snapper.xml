@@ -2056,7 +2056,7 @@ local  | /local</screen>
     </varlistentry>
     <varlistentry>
      <term><command>snapper --config home create --description "Daily data
-     backup" --cleanup-algorithm timeline</command>>
+     backup" --cleanup-algorithm timeline</command>
      </term>
      <listitem>
       <para>
@@ -2141,7 +2141,7 @@ local  | /local</screen>
     </varlistentry>
     <varlistentry>
      <term><command>snapper --config home modify --description "daily backup"
-     -cleanup-algorithm "timeline" 120</command>
+     --cleanup-algorithm "timeline" 120</command>
      </term>
      <listitem>
       <para>
