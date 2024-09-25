@@ -2485,7 +2485,7 @@ TIMELINE_MIN_AGE="1800"</screen>
      </listitem>
      <listitem>
       <para>
-       Daily: the first daily snapshot that has been made is kept from the last
+       Daily: the first daily snapshot that has been made is kept for the last
        seven days.
       </para>
      </listitem>
@@ -2497,7 +2497,7 @@ TIMELINE_MIN_AGE="1800"</screen>
      </listitem>
      <listitem>
       <para>
-       Weekly: the first snapshot made on the last day of the week is kept from
+       Weekly: the first snapshot made on the last day of the week is kept for
        the last four weeks.
       </para>
      </listitem>
